@@ -1,5 +1,5 @@
  ![logo](https://github.com/Akhilesh-jayaram/Akhilesh-jayaram/blob/main/giphy.gif) 
- ![logo](https://github.com/Akhilesh-jayaram/Akhilesh-jayaram/blob/main/giphy%20(1).gif)
+ 
 <h1 align="center">Hi 👋, I'm AKHILESH JAYARAM</h1>
 <h3 align="center">Crafting Pythonic Magic: A 2-Year Journey into Code Wizardry</h3>
 <image align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
