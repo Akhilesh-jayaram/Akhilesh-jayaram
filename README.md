@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKHILESH JAYARAM</h1>
 <h3 align="center">Crafting Pythonic Magic: A 2-Year Journey into Code Wizardry</h3>
 <image align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<image align= "right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5eWFlbjc0ODZ0Y3B2cWQ4enU1MGRxajE1M3dwOXA0eGdycXl0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)">
+<image align= "right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5eWFlbjc0ODZ0Y3B2cWQ4enU1MGRxajE1M3dwOXA0eGdycXl0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-jayaram&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-jayaram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jayaramakhilesh" target="blank"><img src="https://img.shields.io/twitter/follow/jayaramakhilesh?logo=twitter&style=for-the-badge" alt="jayaramakhilesh" /></a> </p>
