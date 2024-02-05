@@ -84,4 +84,4 @@ JavaScript             42 hrs 30 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilesh-jayaram&show_icons=true&locale=en&layout=compact" alt="akhilesh-jayaram" /></p>
 
-<p><image align= "left" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5eWFlbjc0ODZ0Y3B2cWQ4enU1MGRxajE1M3dwOXA0eGdycXl0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif"></image></p>
+<p><image align= "right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ5eWFlbjc0ODZ0Y3B2cWQ4enU1MGRxajE1M3dwOXA0eGdycXl0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif"></image></p>
