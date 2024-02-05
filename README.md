@@ -1,4 +1,8 @@
+<div align="center">
+
  ![logo](https://github.com/Akhilesh-jayaram/Akhilesh-jayaram/blob/main/giphy.gif) 
+
+</div>
 <h1 align="center">Hi 👋, I'm AKHILESH JAYARAM</h1>
 <h3 align="center">Crafting Pythonic Magic: A 2-Year Journey into Code Wizardry</h3>
 <image align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -36,6 +40,7 @@
 
 <div align="center">
   <!--START_SECTION:wakaStats-->
+ 
   ![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2033%20mins-blue)
 
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
